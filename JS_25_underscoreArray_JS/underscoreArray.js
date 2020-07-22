@@ -1,4 +1,7 @@
 //comment commit#1
+//comment commit#2
+//comment commit#3
+//comment commit#4
 let arrayOfData = [1,2,3,4,5,6,7,8,22, 24, 33,9,10];
 let arrayOfCars = [{
     model:'BMW',
